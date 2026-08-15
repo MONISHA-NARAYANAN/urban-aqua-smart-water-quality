@@ -66,6 +66,7 @@ Python is used to implement the blockchain-inspired data integrity mechanism. Se
 ## 📂 Repository Contents
 
 ```text
+├── README.md
 ├── water_quality_monitor.ino
-├── hardware-prototype.jpg
-└── README.md
+├── blockchain_data_integrity.py
+└── hardware-prototype.png
