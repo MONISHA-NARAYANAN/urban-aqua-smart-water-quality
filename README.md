@@ -20,7 +20,7 @@ A blockchain-inspired data integrity mechanism is also used to generate SHA-256 
 ## 🛠️ Technologies Used
 
 - ESP32
-- Embedded C/C++
+- Embedded C++
 - Arduino IDE
 - Python
 - Blynk IoT
